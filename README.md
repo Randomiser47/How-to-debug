@@ -1,5 +1,5 @@
-# How to DEBUG
-
+# How to DEBUG 
+### (_AN EDUCATIONAL REPO FOR BEGINNERS_)
 ## Debugging is the process of removing bugs from your code.
 
 ### Grace Hopper:
